@@ -4,6 +4,9 @@ https://www.figma.com/proto/EJR1Y7btRqPcb9JtEjY2ki/iHealthy?node-id=0%3A1
 
 <img width="458" alt="Screen Shot 2021-05-26 at 3 07 47 PM" src="https://user-images.githubusercontent.com/59607658/119717308-2566c100-be34-11eb-9c0a-2ccd85b52382.png">
 
+# Seneca Digital Health Hackathon 2021
+http://www.senecahackathon.com
+
 # Background
 As we all know, COVID-19, an unexpected global pandemic, is still hovering around the globe in 2021. Countries are locked down, the economy is cut off, but life must go on. Thanks to our researchers and scientists, several effective vaccinations are produced in such a short time, and there will be more coming out. We are confident with our government that our society and economy will be returning to normal, and the pandemic will be ending. Now in Canada, residents are taking vaccinations in stages. We can expect our life will soon be the same way as normal.
 # Problem
